@@ -1,0 +1,5 @@
+/cache
+/out
+/broadcast
+slither.config.json
+*.DS_Store
